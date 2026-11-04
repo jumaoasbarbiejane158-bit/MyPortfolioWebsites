@@ -346,12 +346,7 @@ body:not(:has(.page:target)) #home {
 #projects.page:target {
     display: flex;
 }
-.logo {
-    width: 70px;
-    height: 70px;
-    object-fit: contain;
-    border-radius: 50%;
-}
+
 /* Small screens */
 @media (max-width: 600px) {
     #about,
