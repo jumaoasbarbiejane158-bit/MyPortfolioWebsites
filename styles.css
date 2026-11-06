@@ -375,8 +375,25 @@ body:not(:has(.page:target)) #home {
     margin-bottom: 10px;
 }
 
-footer p {
+
+.footer {
+    background: #1b1530;
+    color: #d8b4fe;
+    text-align: center;
+    padding: 25px;
+    margin-top: 40px;
+    border-top: 2px solid #68429a;
+}
+
+.school-logo {
+    width: 85px;
+    height: 85px;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+
+.footer p {
     margin: 5px;
     font-size: 14px;
-} 
+}
 }
