@@ -359,23 +359,9 @@ body:not(:has(.page:target)) #home {
     .contact-card {
         padding: 15px;
     }
-   footer {
-    background: #1b1530;
-    color: #d8b4fe;
-    text-align: center;
-    padding: 25px;
-    margin-top: 30px;
-    border-top: 2px solid #68429a;
 }
 
-.footer-logo {
-    width: 55px;
-    height: 55px;
-    object-fit: contain;
-    margin-bottom: 10px;
-}
-
-
+/* Footer Design */
 .footer {
     background: #1b1530;
     color: #d8b4fe;
@@ -385,15 +371,17 @@ body:not(:has(.page:target)) #home {
     border-top: 2px solid #68429a;
 }
 
-.school-logo {
-    width: 20px;
-    height: 20px;
+/* School Logo */
+.footer .school-logo {
+    width: 35px;
+    height: 35px;
     object-fit: contain;
-    margin-bottom: 10px;
+    display: block;
+    margin: 0 auto 10px;
 }
 
 .footer p {
     margin: 5px;
     font-size: 15px;
 }
-}
+
