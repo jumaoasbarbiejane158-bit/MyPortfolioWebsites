@@ -386,8 +386,8 @@ body:not(:has(.page:target)) #home {
 }
 
 .school-logo {
-    width: 85px;
-    height: 85px;
+    width: 40px;
+    height: 40px;
     object-fit: contain;
     margin-bottom: 10px;
 }
