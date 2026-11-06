@@ -386,14 +386,14 @@ body:not(:has(.page:target)) #home {
 }
 
 .school-logo {
-    width: 40px;
-    height: 40px;
+    width: 20px;
+    height: 20px;
     object-fit: contain;
     margin-bottom: 10px;
 }
 
 .footer p {
     margin: 5px;
-    font-size: 14px;
+    font-size: 15px;
 }
 }
